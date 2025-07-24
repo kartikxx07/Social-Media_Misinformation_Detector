@@ -1,4 +1,4 @@
-# Social-Media_Misinformation_Detector
+# Social-Media-Misinformation-Detector
 In this repository, I have made an algorithm that checks whether the current content in a post is either factual or clickbait. I personally believe that misinformation is
 a very big issue. With the help of this repository, I want to carry on this work of making this a better algorithm in order to detect misinformation. The key thing in this algorithm
 is that I have classified misinformation into only two kinds: clickbait and factual errors. This is very vague, and with continued iterations of this algorithm in the future,
