@@ -17,10 +17,6 @@ LangChain: Supports modular pipelines for text processing and analysis
 
 Proof-of-Concept: Focused on algorithmic accuracy over scalability
 
-## ⚡ Demo (Placeholder)
-
-(Replace with actual screenshots or GIF of your algorithm in action)
-
 ## 🛠️ Technical Stack
 
 Python 3.11
