@@ -1,6 +1,9 @@
+# Social Media Misinformation Detection Algorithm
+
+## Introduction
 A prototype algorithm for detecting misinformation on social media, classifying posts into clickbait or factual errors. Built as a foundation for scalable, robust misinformation detection systems.
 
-🔑 Key Features
+## Key Features
 
 Content Classification: Detects clickbait and factual errors in social media posts
 
@@ -14,11 +17,11 @@ LangChain: Supports modular pipelines for text processing and analysis
 
 Proof-of-Concept: Focused on algorithmic accuracy over scalability
 
-⚡ Demo (Placeholder)
+## ⚡ Demo (Placeholder)
 
 (Replace with actual screenshots or GIF of your algorithm in action)
 
-🛠️ Technical Stack
+## 🛠️ Technical Stack
 
 Python 3.11
 
@@ -34,7 +37,7 @@ NumPy & SciPy – Cosine similarity & text analysis
 
 Pandas – Data processing
 
-📊 Dataset & Metrics
+## 📊 Dataset & Metrics
 
 Dataset Size: ~10,000 social media posts (scraped and self-labeled)
 
@@ -46,7 +49,7 @@ Overall Accuracy: 78%
 
 Metrics are based on a prototype dataset and serve as proof-of-concept.
 
-🚀 Challenges & Limitations
+## 🚀 Challenges & Limitations
 
 Not optimized for real-time or batch processing
 
@@ -56,7 +59,7 @@ Limited labeled data restricts supervised learning performance
 
 Currently supports text-only and image-extracted text; no video or multimedia content yet
 
-🗺️ Future Roadmap
+## 🗺️ Future Roadmap
 
 Algorithm Improvements: Advanced embeddings and NLP techniques
 
@@ -70,7 +73,7 @@ RLHF Integration: Adaptive learning from human feedback
 
 Commercial-Grade UX: Build intuitive user interfaces for deployment
 
-🤝 Contribution
+## 🤝 Contribution
 
 We welcome contributions to:
 
