@@ -82,5 +82,5 @@ Optimize for scalability and performance
 Extend support for videos and multi-modal content
 
 Author: Kartikay Luthra
-Contact: LinkedIn
- | Email
+Contact: https://www.linkedin.com/in/kartikay-luthra-656592229/
+ | kartikluthra2020@gmail.com
