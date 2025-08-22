@@ -1,5 +1,15 @@
 # Social Media Misinformation Detection Algorithm
 
+![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python&logoColor=white)
+![Transformers](https://img.shields.io/badge/HuggingFace-Transformers-yellow?logo=huggingface&logoColor=black)
+![OCR](https://img.shields.io/badge/OCR-Tesseract%2FPaddleOCR-lightgrey?logo=google&logoColor=black)
+![FAISS](https://img.shields.io/badge/FAISS-Vector%20Search-blueviolet)
+![LangChain](https://img.shields.io/badge/LangChain-NLP%20Pipelines-orange)
+![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?logo=scipy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+
 ## Introduction
 A prototype algorithm for detecting misinformation on social media, classifying posts into clickbait or factual errors. Built as a foundation for scalable, robust misinformation detection systems.
 
